@@ -13,7 +13,7 @@ const Card = (props) => {
               {props.tag}
             </p>
             <NavLink to="" className="btn btn-primary">
-              Check Now
+              Add to Card
             </NavLink>
           </div>
         </div>
