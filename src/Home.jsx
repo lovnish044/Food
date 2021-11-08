@@ -15,7 +15,7 @@ const Home = () => {
                We have best Chief 
            </h2>
            <div className="mt-3"   >
-           <NavLink to="/service" className="btn-get-started">Get It out</NavLink>
+           <NavLink to="/contact" className="btn-get-started">Get It out</NavLink>
            </div>
            </div>
            <div className="col-lg-6 order-1 order-lg-2 header-img">
