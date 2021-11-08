@@ -12,7 +12,7 @@ const Home = () => {
            <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column" >
            <h1>Enjoy your food with <strong className="brand-name">FoodOrder</strong></h1>
            <h2 className="my-3">
-               We have best Chief 
+               We have best Chef 
            </h2>
            <div className="mt-3"   >
            <NavLink to="/contact" className="btn-get-started">Get It out</NavLink>
